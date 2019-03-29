@@ -8,4 +8,4 @@
 
 
 
-[我们的邮箱] : [deszta@yandex.com](deszta@yandex.com)
+[我的邮箱] : [deszta@yandex.com](deszta@yandex.com)
