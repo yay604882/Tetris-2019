@@ -5,7 +5,7 @@
 A new way to play Tetris, the picture is beautiful, simple to operate, you can play a few on the phone anytime, anywhere!</font>
 
 
-![image](https://github.com/yay604882/Tetris-2019/blob/master/tetris.png)
+![image](https://github.com/yay604882/Tetris-2019/blob/master/ball.jpg)
 
 
 
